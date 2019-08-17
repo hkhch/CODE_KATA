@@ -77,5 +77,3 @@ const getLengthOfStr = str => {
 }
 
 let lengthCnt = getLengthOfStr("1234123456789");
-
-
